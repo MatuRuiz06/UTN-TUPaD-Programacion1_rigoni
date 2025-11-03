@@ -1,0 +1,2 @@
+Producto,Precio,Cantidad
+Lapicera | Precio: $120.5 | Cantidad: 30
